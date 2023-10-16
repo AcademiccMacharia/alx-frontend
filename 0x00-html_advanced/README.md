@@ -19,3 +19,7 @@ In this directory I delve into advanced html concepts.
 11. How to integrate an audio file in a webpage
 12. How to embed external content
 13. How to correctly structure an HTML page
+
+## Wireframe of Techium project
+
+![techium](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231016%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231016T184129Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8ffcd66d9ad92ef58c93d80156ca6181ee1f16e5b24ada8997ee7e5886611711)
